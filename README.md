@@ -1,3 +1,3 @@
 # asciirustyimages
-Creates ascii from provided images
+Creates ascii art from provided images\
 WIP
