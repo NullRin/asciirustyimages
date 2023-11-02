@@ -1,5 +1,5 @@
 use image::GenericImageView;
-use std::{io, fs::File, f32::consts::PI};
+use std::{io, fs::File};
 
 #[derive(Copy, Clone)] 
 struct LumenSize{
