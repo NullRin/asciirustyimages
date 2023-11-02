@@ -1,0 +1,6 @@
+SCALE = 15
+IMAGE_PATH = 'C:\my_pictures\image.jpg'
+
+[luma_character_map]
+'#' = 200
+'/' = 100
